@@ -5,7 +5,7 @@ const services = [
   {
     img: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&h=400&fit=crop&q=80',
     title: 'Wood Privacy Fencing',
-    desc: 'Classic cedar, pine, or treated wood panels built for Manitoba's climate. Stained, painted, or left natural.',
+    desc: "Classic cedar, pine, or treated wood panels built for Manitoba's climate. Stained, painted, or left natural.",
     price: 'From $28 / linear ft',
     color: 'svc-wood',
   },
