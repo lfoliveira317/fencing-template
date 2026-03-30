@@ -3,42 +3,42 @@ import { Container, Row, Col } from 'react-bootstrap'
 
 const services = [
   {
-    img: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&h=400&fit=crop&q=80',
+    img: '/images/wood.png',
     title: 'Wood Privacy Fencing',
     desc: "Classic cedar, pine, or treated wood panels built for Manitoba's climate. Stained, painted, or left natural.",
     price: 'From $28 / linear ft',
     color: 'svc-wood',
   },
   {
-    img: 'https://images.unsplash.com/photo-1591584948762-5fc2be6fb4b0?w=600&h=400&fit=crop&q=80',
+    img: '/images/chain.png',
     title: 'Chain-Link Fencing',
     desc: 'Galvanized or vinyl-coated chain-link for security without sacrificing sightlines. Residential and commercial.',
     price: 'From $22 / linear ft',
     color: 'svc-steel',
   },
   {
-    img: 'https://images.unsplash.com/photo-1580063665421-38b1e55b92c1?w=600&h=400&fit=crop&q=80',
+    img: '/images/vinil.png',
     title: 'Vinyl & PVC Fencing',
     desc: 'Low-maintenance, rot-proof vinyl panels that look great year after year. Never paint, never splinter.',
     price: 'From $35 / linear ft',
     color: 'svc-vinyl',
   },
   {
-    img: 'https://images.unsplash.com/photo-1621873495884-4e24baffb10a?w=600&h=400&fit=crop&q=80',
+    img: '/images/ornamental-iron.png',
     title: 'Ornamental Iron & Aluminum',
     desc: 'Elegant powder-coated steel or lightweight aluminum fencing. Adds curb appeal and lasting prestige.',
     price: 'From $45 / linear ft',
     color: 'svc-iron',
   },
   {
-    img: 'https://images.unsplash.com/photo-1500595046743-cd271d694d30?w=600&h=400&fit=crop&q=80',
+    img: '/images/farm.png',
     title: 'Farm & Ranch Fencing',
     desc: 'Post-and-rail, wire, and electric fencing for livestock containment and large rural properties.',
     price: 'From $18 / linear ft',
     color: 'svc-farm',
   },
   {
-    img: 'https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=600&h=400&fit=crop&q=80',
+    img: '/images/gate.png',
     title: 'Gate Installation & Automation',
     desc: 'Swing, slide, and cantilever gates with optional keypad, remote, or intercom automation systems.',
     price: 'From $850 / gate',

@@ -3,15 +3,15 @@ import { Container, Button } from 'react-bootstrap'
 
 const slides = [
   {
-    src: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1600&h=900&fit=crop&q=85',
+    src: '/images/background-hero1.png',
     label: 'Cedar & Wood Fencing',
   },
   {
-    src: 'https://images.unsplash.com/photo-1621873495884-4e24baffb10a?w=1600&h=900&fit=crop&q=85',
+    src: '/images/background-hero2.png',
     label: 'Ornamental Iron & Aluminum',
   },
   {
-    src: 'https://images.unsplash.com/photo-1580063665421-38b1e55b92c1?w=1600&h=900&fit=crop&q=85',
+    src: '/images/background-hero3.png',
     label: 'Vinyl & PVC Fencing',
   },
 ]
