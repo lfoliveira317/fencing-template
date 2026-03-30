@@ -2,27 +2,27 @@ import { Container, Row, Col, Button } from 'react-bootstrap'
 
 const images = [
   {
-    src: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop&q=80',
+    src: '/images/wood.png',
     alt: 'Cedar wood privacy fence – residential backyard',
     span: 'col-lg-8',
   },
   {
-    src: 'https://images.unsplash.com/photo-1621873495884-4e24baffb10a?w=600&h=600&fit=crop&q=80',
+    src: '/images/ornamental-iron.png',
     alt: 'Ornamental iron fence – front yard',
     span: 'col-lg-4',
   },
   {
-    src: 'https://images.unsplash.com/photo-1580063665421-38b1e55b92c1?w=600&h=500&fit=crop&q=80',
+    src: '/images/vinil.png',
     alt: 'White vinyl PVC fence – property boundary',
     span: 'col-lg-4',
   },
   {
-    src: 'https://images.unsplash.com/photo-1591584948762-5fc2be6fb4b0?w=600&h=500&fit=crop&q=80',
+    src: '/images/chain.png',
     alt: 'Chain-link security fencing – commercial property',
     span: 'col-lg-4',
   },
   {
-    src: 'https://images.unsplash.com/photo-1500595046743-cd271d694d30?w=600&h=500&fit=crop&q=80',
+    src: '/images/farm.png',
     alt: 'Farm and ranch post-and-rail fencing',
     span: 'col-lg-4',
   },
